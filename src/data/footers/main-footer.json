@@ -1,0 +1,36 @@
+{
+  "social_links": {
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://twitter.com/",
+    "youtube": "https://www.youtube.com/"
+  },
+  "links": [
+    {
+      "title": "Company",
+      "url": "/profile-index"
+    },
+    {
+      "title": "Portfolio",
+      "url": "/portfolio-index"
+    }
+  ],
+  "recent_posts": [
+    {
+      "url": "/blog-grid-modern",
+      "image": "img/blog/c3.jpg",
+      "title": "How to check the website before releasing it?"
+    },
+    {
+      "url": "/blog-grid-modern",
+      "image": "img/blog/c1.jpg",
+      "title": "How to check the website before releasing it?"
+    }
+  ],
+  "address": "JI. Muara Baru Ujung Blok A No. 1 Kel. Penjaringan Kec. Penjaringan - Jakarta Utara 14440",
+  "email": "xxxx@Gmail.com",
+  "phone": "(021) 6669 7070",
+  "theme_author": {
+    "name": "ThemesCamp",
+    "url": "https://themeforest.net/user/themescamp"
+  }
+}
